@@ -1,0 +1,39 @@
+
+
+.bırıncı {
+ height: 200px;
+ /* margin: auto; */
+ text-align: center;
+ padding-top: 60px;
+}
+.ikinci{
+height: 160px;
+background-color: rgb(224, 228, 228);
+text-align: center;
+}
+.üçüncü{
+    height: 150px;
+    text-align: center;
+   
+}
+
+.dördüncü{
+    height:80px;
+    text-align: center;
+   
+}
+.ek {
+    width: 490px;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+    background-color: aquamarine;
+
+}
+.ek1 {
+    width: 500px;
+    height: 100px;
+    float: left;
+    background-color: aquamarine;
+
+}
